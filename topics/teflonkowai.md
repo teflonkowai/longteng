@@ -1,4 +1,4 @@
-# テフロン加工フライパンの是非を超中立にまとめてみた
+# テフロン加工フライパンで喧嘩になったので論点をまとめてみた
 
 **バージョン**: v1.0.0  
 **最終更新**: 2026年4月25日  
@@ -125,3 +125,9 @@ StatPearls のアーカイブ済み医療教育用レビューでは、過熱時
 - https://www.bfr.bund.de/en/service/frequently-asked-questions/topic/selected-questions-and-answers-on-cookware-ovenware-and-frying-pans-with-a-non-stick-coating-made-of-ptfe/
 
 </details>
+
+---
+
+#はじめてのnote
+
+https://github.com/teflonkowai/longteng/blob/main/topics/teflonkowai.md
